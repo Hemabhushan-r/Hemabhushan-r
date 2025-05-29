@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 
-
 🔭 I’m currently working on Machine Learning, Web Dev, App Dev<br>🌱 I’m currently learning Deep Learning
 
 
